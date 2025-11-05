@@ -1,0 +1,31 @@
+type:PWDR
+color:gist_heat
+wavelength:0.976
+calibrant:LaB6  SRM660
+distance:190.6722826568841
+center:[np.float64(115.69679909647527), np.float64(-7.758416457857067)]
+Oblique:[0.5, False]
+tilt:-0.10306458449067987
+rotation:288.1868159756275
+azmthOff:0.0
+fullIntegrate:True
+LRazimuth:[0.0, 360.0]
+setdist:100.0
+IOtth:[5.0, 50.0]
+outChannels:2500
+outAzimuths:1
+invert_x:False
+invert_y:True
+DetDepth:0.0
+calibskip:0
+pixLimit:10
+cutoff:10.0
+calibdmin:1.0
+Flat Bkg:0.0
+varyList:{'dist': True, 'det-X': True, 'det-Y': True, 'tilt': True, 'phi': True, 'dep': False, 'wave': False}
+binType:2-theta
+SampleShape:Cylinder
+PolaVal:[0.99, False]
+SampleAbs:[0.0, False]
+dark image:['', -1.0]
+background image:['', -1.0]
