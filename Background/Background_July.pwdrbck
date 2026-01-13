@@ -1,0 +1,12 @@
+#GSAS-II background parameter file; do not add/delete items!
+['chebyschev-1', True, 5, 13744.9516, -11410.0, 619.7199, 602.0776, 344.6025]
+nDebye:0
+debyeTerms:[]
+nPeaks:0
+peaksList:[]
+background PWDR:['', 1.0, False]
+autoPrms:
+opt
+logLam
+Mode
+FixedPoints:[]
